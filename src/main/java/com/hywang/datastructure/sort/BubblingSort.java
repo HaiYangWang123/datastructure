@@ -1,9 +1,9 @@
-package com.hywang.sort;
+package com.hywang.datastructure.sort;
 
 /**
  * 冒泡排序
  */
-public class MaoPaoSort {
+public class BubblingSort {
 
     public static void main(String[] args) {
         int[] arr = {78,89,67,98,90,56,88};
